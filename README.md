@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Natalia Arevalo</h1>
-<h3 align="center">A passionate frontend/backend developer from Colombia and currently reside in Toronto, Canada. Currently, I'm in the third semester of Computer Programming at Georgian College.</h3>
+<h3 align="center">A passionate frontend/backend developer from Colombia, now residing in Toronto, Canada. Currently, I'm in the third semester of Computer Programming at Georgian College.</h3>
 
 - 💬 Ask me about **HTML, CSS, Javascript**
 
